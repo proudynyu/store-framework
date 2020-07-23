@@ -9,10 +9,7 @@
     "children": [
       "image#about-us",
       "flex-layout.col#text-about-us"
-    ],
-    "props": {
-      "marginTop": 10
-    }
+    ]
   },
 
   "flex-layout.col#text-about-us": {
