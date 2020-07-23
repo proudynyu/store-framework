@@ -47,6 +47,7 @@
       "marginBottom": 8
     },
     "children": [
+      "product-separator",
       "sku-selector",
       "product-quantity"      
     ]
