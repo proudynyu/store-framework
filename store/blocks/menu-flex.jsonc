@@ -31,7 +31,7 @@
   "flex-layout.col#img": {
     "children": [
       "image#menu",
-      "rich-text#menu"
+      "rich-text#header"
     ],
     "props": {
       "paddingRight": 4,
@@ -50,7 +50,7 @@
     }
   },
   
-  "rich-text#menu": {
+  "rich-text#header": {
     "props": {
       "text": "*Lorem ipsum*",
       "textPosition": "CENTER"
