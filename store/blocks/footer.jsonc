@@ -31,7 +31,8 @@
         "MasterCard",
         "Visa",
         "Diners Club"
-      ]
+      ],
+      "showInColor": true
     }
   },
 
